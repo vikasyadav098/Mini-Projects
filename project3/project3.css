@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #e0f2fe, #f8fafc);
+}
+
+.center {
+    text-align: center;
+    background: #ffffff;
+    padding: 30px 50px;
+    border-radius: 16px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+}
+
+#banner {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #1d4ed8;
+    margin-bottom: 10px;
+}
+
+#clock {
+    font-size: 2rem;
+    color: #111827;
+}
